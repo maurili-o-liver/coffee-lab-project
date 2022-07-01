@@ -29,4 +29,6 @@ lab-coffee-manager/code
 lab-client/.idea
 lab-client/.code
 lab-client/.vsCode
-
+.idea
+.code
+.vscode
